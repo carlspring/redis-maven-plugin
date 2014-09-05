@@ -3,7 +3,7 @@ redis-maven-plugin [![Build Status](https://buildhive.cloudbees.com/job/r351574n
 
 Maven plugin to embed a redis-server based on the redis-protocol
 project. This is an in-memory redis server. That means that when the
-server shutsdown or closes, the data is no longer available.
+server shuts down or closes, the data is no longer available.
 
 Checkout the maven plugin page at [http://r351574nc3.github.io/redis-maven-plugin]
 
